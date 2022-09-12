@@ -31,7 +31,7 @@ When I’m not coding, I will probably be taking photos or reading some book.
 
 
 <div class="badges">
-🔗 
+🔗 <br />
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&&style=for-the-badge">
   </a>
