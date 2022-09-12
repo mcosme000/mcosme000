@@ -32,11 +32,11 @@ When I’m not coding, I will probably be taking photos or reading some book.
 
 <div class="badges">
 🔗 <br /><br />
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/maria-cosmen-7293771a7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&&style=for-the-badge">
   </a>
   
-  <a href="" target="_blank">
+  <a href="https://www.behance.net/maracosmen" target="_blank">
     <img src="https://img.shields.io/badge/Behance-blue?logo=behance&logoColor=white&&style=for-the-badge">
   </a>
 </div>
