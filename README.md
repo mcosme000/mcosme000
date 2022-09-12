@@ -39,5 +39,13 @@ When I’m not coding, I will probably be taking photos or reading some book.
   <a href="https://www.behance.net/maracosmen" target="_blank">
     <img src="https://img.shields.io/badge/Behance-blue?logo=behance&logoColor=white&&style=for-the-badge">
   </a>
+  
+  <a>
+  
+  </a>
 </div>
+
+
+  <img src="https://www.codewars.com/users/mcosme000/badges/micro">
+
 
