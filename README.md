@@ -18,3 +18,12 @@ Here are some ideas to get you started:
 
 ✨ I'm Maria, a self-taught frontend developer and UX/UI designer based in Nara. I used to work in the tourism industry, but now I'm looking for new opportunities in the IT industry.
 When I’m not coding, I will probably be taking photos or reading some book. 
+
+
+●　🔭 I’m currently working on two personal projects for coding practice! 
+  - <a href="" target="_blank">https://github.com/mcosme000/Recipe-App</a>
+  - 
+● 🌱 I’m currently learning RUBY and Ruby on Rails
+● 📫 How to reach me: ...
+● 😄 Pronouns: She/Her
+● ✨ Fun fact: We recently bought a house in Nara and are restoring it 🔨🏡
