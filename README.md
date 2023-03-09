@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 ✨ I'm Maria, a self-taught frontend developer and UX/UI designer based in Nara. I used to work in the tourism industry, but now I'm looking for new opportunities in the IT industry.
 When I’m not coding, I will probably be taking photos or reading some book. 
 
-- 🔭 I’m currently working on two personal projects. They are not that fancy, but I am using them for practice ✌🏻
-  --A <a href="https://github.com/mcosme000/Recipe-App" target="_blank">Recipe App</a> that uses an API and shows yummy foods
-  -- A fun <a href="https://github.com/mcosme000/chat-app" target="_blank">Chatt App</a> where the users are dogs. I made this for JavaScript practice and to be creative
-- 🌱 I'm learning about RUBY
+- 🔭 I’m currently working on a blog app made with Ruby on Rails 
+- 🌱 I'm learning about Ruby, Ruby on Rails and I want to dive into React soon
+- 👀 I'd love to collaborate on some projects involving front-end 
 - 😄 Pronouns: She/Her
 - ✨ Fun fact: We recently bought a house in Nara and we are remodeling it 🔨🎨🏡
 - 📧 You can reach me through my email: mcosme00@gmail.com 
