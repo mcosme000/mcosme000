@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-✨ I'm Maria, a self-taught frontend developer and UX/UI designer based in Nara. I used to work in the tourism industry, but now I'm looking for new opportunities in the IT industry.
+✨ I'm Maria, a Full Stack Developer and UX/UI designer based in Nara. I used to work in the tourism industry, but now I'm looking for new opportunities in the IT industry.
 When I’m not coding, I will probably be taking photos or reading some book. 
 
 - 🔭 I’m currently working on a blog app made with Ruby on Rails 
