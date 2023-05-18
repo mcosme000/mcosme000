@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 When I’m not coding, I will probably be taking photos or reading some books.
 
 <!-- 🔭 I’m currently working on a blog app made with Rails and -->
-- 🌱 I'm currently learning React 🚀
+- 🌱 I'm currently learning React and Typescript 🚀
 - 👀 I'd love to collaborate on some projects involving front-end 
 - 😄 Pronouns: She/Her
 - ✨ Fun fact: last year we bought a house in Nara and we are remodeling it 🔨🎨🏡
