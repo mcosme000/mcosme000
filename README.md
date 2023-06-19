@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-✨ I'm Maria, a Full Stack Developer and UX/UI designer based in Nara. I used to work in the tourism industry, but now I'm looking for new opportunities in the IT industry.
-When I’m not coding, I will probably be taking photos or reading some books.
+✨ I'm Maria, a Full Stack Developer and UX/UI designer based in Nara. I used to work in the tourism industry, but now I'm looking for new opportunities as a frontend developer. 
+When I’m not coding, I will probably be taking photos, reading books or spending some time with my dogs.
 
 <!-- 🔭 I’m currently working on a blog app made with Rails and -->
 - 🌱 I'm currently learning React 🚀
