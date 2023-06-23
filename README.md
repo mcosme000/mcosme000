@@ -38,20 +38,21 @@ When I’m not coding, I will probably be taking photos, reading books or spendi
 <img src="https://www.codewars.com/users/mcosme000/badges/micro">
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&logoWidth=30&style=for-the-badge"> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&logoWidth=30&style=for-the-badge"> 
-<img src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=000000&logoWidth=30&style=for-the-badge">
-<img src="https://img.shields.io/badge/-bootstrap-7952B3?logo=bootstrap&logoColor=ffffff&logoWidth=30&style=for-the-badge">
-<img src="https://img.shields.io/badge/-tailwind%20css-06B6D4?logo=tailwind%20css&logoColor=ffffff&logoWidth=30&style=for-the-badge">
-<img src="https://img.shields.io/badge/-sass-CC6699?logo=sass&logoColor=ffffff&logoWidth=30&style=for-the-badge">
-<img src="https://img.shields.io/badge/-react-61DAFB?logo=react&logoColor=000&logoWidth=30&style=for-the-badge">
+<div>
+  <img display="inline" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&logoWidth=30&style=for-the-badge"> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&logoWidth=30&style=for-the-badge"> 
+  <img display="inline" src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=000000&logoWidth=30&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-bootstrap-7952B3?logo=bootstrap&logoColor=ffffff&logoWidth=30&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-tailwind%20css-06B6D4?logo=tailwind%20css&logoColor=ffffff&logoWidth=30&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-sass-CC6699?logo=sass&logoColor=ffffff&logoWidth=30&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-react-61DAFB?logo=react&logoColor=000&logoWidth=30&style=for-the-badge">
 
 <img src="https://img.shields.io/badge/-ruby-CC342D?logo=ruby&logoColor=fff&logoWidth=30&style=for-the-badge">
-<img src="https://img.shields.io/badge/-ruby%20on%20rails-CC0000?logo=rubyonrails&logoColor=fff&logoWidth=30&style=for-the-badge">
-<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=fff&logoWidth=30&style=for-the-badge">
-<img src="https://img.shields.io/badge/-postgreSQL-4169E1?logo=postgreSQL&logoColor=fff&logoWidth=30&style=for-the-badge">
-<img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=fff&logoWidth=30&style=for-the-badge">
-<img src="https://img.shields.io/badge/-heroku-430098?logo=heroku&logoColor=fff&logoWidth=30&style=for-the-badge">
-<img src="https://img.shields.io/badge/-figma-F24E1E?logo=figma&logoColor=fff&logoWidth=30&style=for-the-badge">
-<img src="https://img.shields.io/badge/-adobe%20illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&logoWidth=30&style=for-the-badge">
-
+  <img src="https://img.shields.io/badge/-ruby%20on%20rails-CC0000?logo=rubyonrails&logoColor=fff&logoWidth=30&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=fff&logoWidth=30&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-postgreSQL-4169E1?logo=postgreSQL&logoColor=fff&logoWidth=30&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=fff&logoWidth=30&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-heroku-430098?logo=heroku&logoColor=fff&logoWidth=30&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-figma-F24E1E?logo=figma&logoColor=fff&logoWidth=30&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-adobe%20illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&logoWidth=30&style=for-the-badge">
+</div>
 
