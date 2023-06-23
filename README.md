@@ -40,7 +40,7 @@ When I’m not coding, I will probably be taking photos, reading books or spendi
 <h3 align="left">Languages and Tools:</h3>
 <div>
   <img display="inline" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&logoWidth=30&style=for-the-badge"> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&logoWidth=30&style=flat"> 
-  <img display="inline" src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=000000&logoWidth=30&style=flat">
+  <img display="inline" src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=000000&logoWidth=30&style=flat-square">
   <img src="https://img.shields.io/badge/-bootstrap-7952B3?logo=bootstrap&logoColor=ffffff&logoWidth=30&style=for-the-badge">
   <img src="https://img.shields.io/badge/-tailwind%20css-06B6D4?logo=tailwind%20css&logoColor=ffffff&logoWidth=30&style=for-the-badge">
   <img src="https://img.shields.io/badge/-sass-CC6699?logo=sass&logoColor=ffffff&logoWidth=30&style=for-the-badge">
