@@ -39,6 +39,7 @@ When I’m not coding, I will probably be taking photos, reading books or spendi
 </div>
 
 <img src="https://www.codewars.com/users/mcosme000/badges/micro">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=000000&logoWidth=30&style=for-the-badge">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
