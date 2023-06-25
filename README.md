@@ -48,7 +48,6 @@ When I’m not coding, I will probably be taking photos, reading books or spendi
 
 <img src="https://img.shields.io/badge/-ruby-CC342D?logo=ruby&logoColor=fff&logoWidth=30&style=for-the-badge">
   <img src="https://img.shields.io/badge/-ruby%20on%20rails-CC0000?logo=rubyonrails&logoColor=fff&logoWidth=30&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=SQL&logoColor=fff&logoWidth=30&style=for-the-badge">
   <img src="https://img.shields.io/badge/-postgreSQL-4169E1?logo=postgreSQL&logoColor=fff&logoWidth=30&style=for-the-badge">
   <img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=fff&logoWidth=30&style=for-the-badge">
   <img src="https://img.shields.io/badge/-heroku-430098?logo=heroku&logoColor=fff&logoWidth=30&style=for-the-badge">
