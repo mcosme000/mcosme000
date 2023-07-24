@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 When I’m not coding, I will probably be taking photos, reading books or spending some time with my dogs.
 
 <!-- 🔭 I’m currently working on a blog app made with Rails and -->
-- 🌱 I'm currently learning React and Next.js🚀
+- 🌱 I'm currently learning Python🐍 and Next.js🚀
 - 👀 I'd love to collaborate on some projects involving front-end 
 - ✨ Fun fact: last year we bought a house in Nara and we are remodeling it 🔨🎨🏡
 - 📧 You can reach me through my email: mcosme00@gmail.com 
