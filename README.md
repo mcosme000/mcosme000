@@ -46,7 +46,7 @@ When I’m not coding, I will probably be taking photos, reading books or spendi
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&logoWidth=30&style=for-the-badge"> 
   <img display="inline" src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=000&logoWidth=30&style=for-the-badge">
   <img src="https://img.shields.io/badge/-react-61DAFB?logo=react&logoColor=000&logoWidth=30&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-nextjs-000000?logo=nextjs&logoColor=fff&logoWidth=30&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-next.js-000000?logo=next.js&logoColor=fff&logoWidth=30&style=for-the-badge">
   <img src="https://img.shields.io/badge/-typescript-3178C6?logo=typescript&logoColor=fff&logoWidth=30&style=for-the-badge">
 
   <!-- Style -->
