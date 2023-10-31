@@ -60,7 +60,7 @@ When I’m not coding, I will probably be taking photos, reading books or spendi
 
   <!-- Database and version control -->
   <img src="https://img.shields.io/badge/-postgreSQL-4169E1?logo=postgreSQL&logoColor=fff&logoWidth=30&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-prisma-#2D3748?logo=prisma&logoColor=fff&logoWidth=30&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-prisma-000000?style=for-the-badge&logo=prisma&logoColor=white">
   <img src="https://img.shields.io/badge/-trpc-##2596BE?logo=trpc&logoColor=fff&logoWidth=30&style=for-the-badge">
   <img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=fff&logoWidth=30&style=for-the-badge">
   <img src="https://img.shields.io/badge/-heroku-430098?logo=heroku&logoColor=fff&logoWidth=30&style=for-the-badge">
