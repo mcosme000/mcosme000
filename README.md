@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+参考リンク
+https://img.shields.io/badge/prisma-000000?style=for-the-badge&logo=prisma&logoColor=white
+https://simpleicons.org/?q=trpc
 -->
 
 
