@@ -44,14 +44,15 @@ When I’m not coding, I will probably be taking photos, reading books or spendi
   <!-- Frontend -->
   <img display="inline" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&logoWidth=30&style=for-the-badge">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&logoWidth=30&style=for-the-badge"> 
-  <img display="inline" src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=000000&logoWidth=30&style=for-the-badge">
+  <img display="inline" src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=000&logoWidth=30&style=for-the-badge">
   <img src="https://img.shields.io/badge/-react-61DAFB?logo=react&logoColor=000&logoWidth=30&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-typescript-3178C6?logo=typescript&logoColor=000&logoWidth=30&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-nextjs-000000?logo=nextjs&logoColor=fff&logoWidth=30&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-typescript-3178C6?logo=typescript&logoColor=fff&logoWidth=30&style=for-the-badge">
 
   <!-- Style -->
-  <img src="https://img.shields.io/badge/-bootstrap-7952B3?logo=bootstrap&logoColor=ffffff&logoWidth=30&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-tailwind%20css-06B6D4?logo=tailwind%20css&logoColor=ffffff&logoWidth=30&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-sass-CC6699?logo=sass&logoColor=ffffff&logoWidth=30&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-bootstrap-7952B3?logo=bootstrap&logoColor=fff&logoWidth=30&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-tailwind%20css-06B6D4?logo=tailwind%20css&logoColor=fff&logoWidth=30&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-sass-CC6699?logo=sass&logoColor=fff&logoWidth=30&style=for-the-badge">
 
   <!-- Backend -->
   <img src="https://img.shields.io/badge/-ruby-CC342D?logo=ruby&logoColor=fff&logoWidth=30&style=for-the-badge">
@@ -59,6 +60,8 @@ When I’m not coding, I will probably be taking photos, reading books or spendi
 
   <!-- Database and version control -->
   <img src="https://img.shields.io/badge/-postgreSQL-4169E1?logo=postgreSQL&logoColor=fff&logoWidth=30&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-prisma-#2D3748?logo=prisma&logoColor=fff&logoWidth=30&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-trpc-##2596BE?logo=trpc&logoColor=fff&logoWidth=30&style=for-the-badge">
   <img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=fff&logoWidth=30&style=for-the-badge">
   <img src="https://img.shields.io/badge/-heroku-430098?logo=heroku&logoColor=fff&logoWidth=30&style=for-the-badge">
 
