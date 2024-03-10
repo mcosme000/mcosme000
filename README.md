@@ -73,5 +73,8 @@ When I’m not coding, I will probably be taking photos, reading books or spendi
   <!-- Design tools -->
   <img src="https://img.shields.io/badge/-figma-F24E1E?logo=figma&logoColor=fff&logoWidth=30&style=for-the-badge">
   <img src="https://img.shields.io/badge/-adobe%20illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&logoWidth=30&style=for-the-badge">
+
+  <!-- Others -->
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </div>
 
