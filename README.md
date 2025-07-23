@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 https://img.shields.io/badge/prisma-000000?style=for-the-badge&logo=prisma&logoColor=white
 https://simpleicons.org/?q=trpc
 -->
+ 
 
-
-✨ I'm Maria, a full stack developer and designer based in Nara. 
-When I’m not coding, I will probably be taking photos, reading books or spending some time with my husband and dogs
+✨ I'm Maria, a frontend developer and UX/UI designer based in Nara. 
+When I’m not coding, I'll probably be taking photos, reading books or spending some time with my husband and dogs
 
 <!-- 🔭 I’m currently working on a blog app made with Rails and -->
 - 🌱 I am learning FastAPI
