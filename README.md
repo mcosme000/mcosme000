@@ -59,16 +59,10 @@ When I’m not coding, I'll probably be taking photos, reading books or spending
   <img src="https://img.shields.io/badge/-sass-CC6699?logo=sass&logoColor=fff&logoWidth=30&style=for-the-badge">
   <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white">
 
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/-ruby-CC342D?logo=ruby&logoColor=fff&logoWidth=30&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-ruby%20on%20rails-CC0000?logo=rubyonrails&logoColor=fff&logoWidth=30&style=for-the-badge">
-  <img src="https://img.shields.io/badge/trpc-000000?style=for-the-badge&logo=trpc&logoColor=white">
-
   <!-- Database and version control -->
   <img src="https://img.shields.io/badge/-postgreSQL-4169E1?logo=postgreSQL&logoColor=fff&logoWidth=30&style=for-the-badge">
   <img src="https://img.shields.io/badge/-prisma-000000?style=for-the-badge&logo=prisma&logoColor=white">
   <img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=fff&logoWidth=30&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-heroku-430098?logo=heroku&logoColor=fff&logoWidth=30&style=for-the-badge">
 
   <!-- Design tools -->
   <img src="https://img.shields.io/badge/-figma-F24E1E?logo=figma&logoColor=fff&logoWidth=30&style=for-the-badge">
