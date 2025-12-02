@@ -23,13 +23,6 @@ https://simpleicons.org/?q=trpc
 ✨ I'm Maria, a frontend developer and UX/UI designer based in Nara. 
 When I’m not coding, I'll probably be taking photos, reading books or spending some time with my husband and dogs
 
-<!-- 🔭 I’m currently working on a blog app made with Rails and -->
-- 🌱 I am learning FastAPI
-- 👩🏼‍💻 Currently working as a frontend developer and web designer
-- 👀 I am always open to collaborate on interesting projects
-- ✨ Fun fact: we are currently renovating our house 🔨🎨🏡
-- 📧 You can reach me through my email: mcosme00@gmail.com 
-
 <div>
   <br />
   <a href="https://www.linkedin.com/in/maria-cosmen-7293771a7/" target="_blank">
